@@ -1,7 +1,8 @@
 @use 'sass:math';
 @import '../../styles/settings.scss';
-  
-  .button {
+
+
+.button {
     position: absolute;
     top: -$base-size * 2;
     right: -$base-size * 2;
@@ -9,4 +10,4 @@
     border-radius: 100%;
     width: $base-size * 5;
     height: $base-size * 5;
-  }
+  } 
